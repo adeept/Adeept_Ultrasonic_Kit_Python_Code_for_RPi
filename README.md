@@ -4,7 +4,7 @@
 #### About this kit:
 This is a learning kit for Raspberry Pi. Some common electronic components and sensors are included. We also prepared an user manual(about 100 pages PDF) for you. Through the learning, you will get a better understanding of Raspberry Pi, and be able to make fascinating works based on Raspberry Pi.
 
-Now, the kit has been released, you can buy it from our ebay shop:</br>
+Now, the kit has been released, you can buy it in our ebay store:</br>
 
 -----------------------------------------------------------------------------
 #### About Adeept:
